@@ -9,14 +9,13 @@ That's why I decided to release some of the PNG I made, so that others can use t
 
 All images in this repo are licensed under Creative Commons.</BR>
 
-more information here: https://github.com/SappohSamaWorkshop/Sappohs_CreativeCommons_PNG/blob/main/LICENSE
+More information here: https://github.com/SappohSamaWorkshop/Sappohs_CreativeCommons_PNG/blob/main/LICENSE
 
 
 </BR></BR>
 
 If you want to use one or more images from this repo, please name the source by inserting the link of this repository.
 
-</BR></BR>
-
+</BR>
 
 Cheers Everyone
