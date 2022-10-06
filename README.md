@@ -2,7 +2,7 @@
 Sappoh's Creative Commons PNG, for everyone.
 
 When you need an PNG for commercial purposes, finding it for free isn't always easy.</BR>
-Many times the licenses are not reported, and you can't really tell if the image you are using is truly copyright free.
+Many times the licenses are not reported, and you can't really tell if the image you are using is truly copyright free.</BR>
 That's why I decided to release some of the PNG I made, so that others can use them too.</BR>
 
 </BR>
